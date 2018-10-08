@@ -1,7 +1,6 @@
 /*
-	Add to cart fly effect with jQuery. - May 05, 2013
-	(c) 2013 @ElmahdiMahmoud - fikra-masri.by
-	license: https://www.opensource.org/licenses/mit-license.php
+	Add to cart fly effect with jQuery. - May 05, 2018
+	(c) 2018 @MORTADA
 */   
 
 $('.add-to-cart').on('click', function () {
